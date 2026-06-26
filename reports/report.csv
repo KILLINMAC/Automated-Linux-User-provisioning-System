@@ -1,0 +1,4 @@
+username,group,permission,status
+JD,devops,750,CREATED
+Label,admins,750,CREATED
+Covid,testers,550,CREATED
