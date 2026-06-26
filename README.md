@@ -64,9 +64,9 @@ Example `users.csv`
 
 ```csv
 username,group,password
-john,admin,John@123
-alice,devops,Alice@123
-bob,testers,Bob@123
+Label,admin,Label@123
+JD,devops,JD@123
+Covid,testers,Covid@123
 ```
 
 ---
@@ -143,4 +143,4 @@ reports/report.csv
 
 ## Author
 
-Your Name
+Siddhant Waghmare
